@@ -71,6 +71,7 @@ alert( message );
    
 ### October 2013 – August 2018 
 * RM Engineer, Ltd “Kenfordbel”, Minsk
+    * Repair and maintenance of Huawei mobile devices.
  
 ### August 2018 – August 2019
 * Lead Engineer, Ltd “Kenfordbel”, Minsk
