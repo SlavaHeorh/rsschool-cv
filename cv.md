@@ -7,6 +7,8 @@
   
 **Phone:** +375(29) 751-16-90
 
+**Skype:** Viachaslau Kazliakouski
+
 **e-mail:** Slava.Georg.K@gmail.com
 
 **Linkedin:** [Viachaslau Kazliakouski](http://www.linkedin.com/in/ViachaslauKazliakouski)
@@ -99,4 +101,4 @@ alert( message );
 
 My skills gained in the courses will help to get started quickly and be useful on the projects.
 
-Right now I'm studying on the Rolling Scopes courses and want to improve my skills in JS, CSS, HTML.
+Right now I'm studying on the Rolling Scopes courses and want to improve my skills in JS, CSS, HTML and GitHub.
