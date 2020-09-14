@@ -2,7 +2,7 @@
   
   
   
-  
+#  
 ## Contacts
   
 **Phone:** +375(29) 751-16-90
@@ -30,6 +30,7 @@
 ## Education
 
 **June 2019 – September 2019**
+
 Educational Center of Hi-Tech Park IT-Academy, Minsk
 
 Course - Functional Software Testing.
