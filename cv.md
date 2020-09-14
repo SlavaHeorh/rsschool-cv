@@ -11,6 +11,8 @@
 
 **e-mail:** Slava.Georg.K@gmail.com
 
+**GitHub:** [SlavaHeorh](https://slavaheorh.github.io/rsschool-cv/cv)
+
 **Linkedin:** [Viachaslau Kazliakouski](http://www.linkedin.com/in/ViachaslauKazliakouski)
    
 ## Summary
