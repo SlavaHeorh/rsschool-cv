@@ -19,7 +19,7 @@
 - [ ] I can work as a team or alone.
    
 ## Skills
-
+- [ ] Experienced in CSS and HTML also JS.
 - [ ] Creating Test Cases in TestRail
 - [ ] Work with the system Jira
 - [ ] Entering bugs into the bug tracking system
@@ -47,27 +47,24 @@ At this moment, learning English is a hobby. I’m studying it independently wit
     
 ## Code example
 
-```html
-<nav class="nav nav-primary">
-  <ul>
-    <li class="tab-conversation active">
-      <a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
-        <span class="comment-count">0 комментариев</span>
-        <span class="comment-count-placeholder">Комментарии</span>
-      </a>
-    </li>
-    <li class="dropdown user-menu" data-role="logout">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-        <span class="dropdown-toggle-wrapper">
-          <span>
-            Войти
-          </span>
-        </span>
-        <span class="caret"></span>
-      </a>
-    </li>
-  </ul>
-</nav>
+```JS
+//Two simple examples:
+
+let year = prompt('How old are you?' , '');
+if (year == 33) {
+alert('You are goddamn right!');
+} else {
+alert('You dont know me!'); 
+}
+
+let age = prompt('How old are you?', '');
+
+let message = (age < 3) ? 'Hello baby!' :
+  (age < 18) ? 'Hello!' :
+  (age < 100) ? 'Hello there!' :
+  'What an unusual age';
+
+alert( message );
 ```
 
 ## Work experience
