@@ -70,7 +70,7 @@ I have English level A2.
 ## Work experience
 
 ### October 2013 – August 2018 
-*RM Engineer, Ltd “Kenfordbel”, Minsk
+* RM Engineer, Ltd “Kenfordbel”, Minsk
   
 ### August 2018 – August 2019
 * Lead Engineer, Ltd “Kenfordbel”, Minsk
