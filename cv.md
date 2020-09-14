@@ -1,20 +1,20 @@
 # Viachaslau Kazliakouski
-
+   
 ## Contacts
-
+  
 **Phone:** +375(29) 751-16-90
 
 **e-mail:** Slava.Georg.K@gmail.com
 
 **Linkedin:** [Viachaslau Kazliakouski](http://www.linkedin.com/in/ViachaslauKazliakouski)
-
+   
 ## Summary
 - [ ] Purposefulness, perseverance, friendly.
 - [ ] Experience in training new employees.
 - [ ] Easy to get along with team.
 - [ ] The desire to learn and develop in this direction.
 - [ ] I can work as a team or alone.
-
+   
 ## Skills
 
 - [ ] Creating Test Cases in TestRail
@@ -22,8 +22,7 @@
 - [ ] Entering bugs into the bug tracking system
 - [ ] Testing web apps, mobile apps and native apps
 - [ ] Work with MySQL
-
-
+   
 ## Education
 
 **June 2019 – September 2019**
@@ -38,9 +37,10 @@ bachelor degree of engineer Information Technology and Management.
 **July 2005 – February 2009**  
 Technician, Minsk State Vocational and Technical College of Electronics, Minsk
 Information Technology Software Technician.
-
+   
 ## Languages
-I have English level A2.
+Estimated Eanglish level A2.
+At this moment, learning English is a hobby. I’m studying it independently with the help of apps and videos on Youtube, I also connected communication with a native speaker and people with a higher level.
     
 ## Code example
 
@@ -68,18 +68,17 @@ I have English level A2.
 ```
 
 ## Work experience
-
+   
 ### October 2013 – August 2018 
 * RM Engineer, Ltd “Kenfordbel”, Minsk
-  
+ 
 ### August 2018 – August 2019
 * Lead Engineer, Ltd “Kenfordbel”, Minsk
     * Repair and maintenance of Huawei mobile devices.
     * Ordering spare parts from the manufacturer.
     * Coordinating repair dates, training new employees.
     * Organizing the workflow of service center employees.
-
-
+    
 ## Additional information
 
-At this moment, learning English is a hobby. I’m studying it independently with the help of apps and videos on Youtube, I also connected communication with a native speaker and people with a higher level.
+My skills gained in the courses will help to get started quickly and be useful on the projects.
