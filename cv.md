@@ -69,4 +69,17 @@ I have English level A2.
 
 ## Work experience
 
+### October 2013 – August 2018 
+*RM Engineer, Ltd “Kenfordbel”, Minsk
+  
+### August 2018 – August 2019
+* Lead Engineer, Ltd “Kenfordbel”, Minsk
+    * Repair and maintenance of Huawei mobile devices.
+    * Ordering spare parts from the manufacturer.
+    * Coordinating repair dates, training new employees.
+    * Organizing the workflow of service center employees.
+
+
 ## Additional information
+
+At this moment, learning English is a hobby. I’m studying it independently with the help of apps and videos on Youtube, I also connected communication with a native speaker and people with a higher level.
