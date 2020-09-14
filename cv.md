@@ -6,7 +6,7 @@
 
 **e-mail:** Slava.Georg.K@gmail.com
 
-**Linkedin:** **[Viachaslau Kazliakouski] (http://www.linkedin.com/in/ViachaslauKazliakouski)**
+**Linkedin:** [Viachaslau Kazliakouski](http://www.linkedin.com/in/ViachaslauKazliakouski)
 
 ## Summary
 - [ ] Purposefulness, perseverance, friendly.
