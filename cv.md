@@ -31,18 +31,30 @@
 
 **June 2019 – September 2019**
 Educational Center of Hi-Tech Park IT-Academy, Minsk
+
 Course - Functional Software Testing.
-The course program included: types and methods of testing, testing documentation and requirements, principle of test development, the basic of testing web services and project protection with team.
+
+The course program included:
+
+* types and methods of testing 
+* testing documentation and requirements 
+* principle of test development 
+* the basic of testing web services and project protection with team
 
 **July 2009 – July 2013**
+
 Bachelor, Belarusian State University of Informatics and Radioelectronics, Minsk
+
 bachelor degree of engineer Information Technology and Management.
 
 **July 2005 – February 2009**  
+
 Technician, Minsk State Vocational and Technical College of Electronics, Minsk
+
 Information Technology Software Technician.
    
 ## Languages
+
 Estimated Eanglish level A2.
 
 At this moment, learning English is a hobby. I’m studying it independently with the help of apps and videos on Youtube, I also connected communication with a native speaker and people with a higher level.
