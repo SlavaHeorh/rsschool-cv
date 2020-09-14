@@ -20,11 +20,12 @@
    
 ## Skills
 - [ ] Experienced in CSS and HTML also JS.
-- [ ] Creating Test Cases in TestRail
-- [ ] Work with the system Jira
-- [ ] Entering bugs into the bug tracking system
-- [ ] Testing web apps, mobile apps and native apps
-- [ ] Work with MySQL
+- [ ] Creating Test Cases in TestRail.
+- [ ] Work with the system Jira.
+- [ ] Work with version control system GitHub .
+- [ ] Entering bugs into the bug tracking system.
+- [ ] Testing web apps, mobile apps and native apps.
+- [ ] Work with MySQL.
    
 ## Education
 
@@ -43,6 +44,7 @@ Information Technology Software Technician.
    
 ## Languages
 Estimated Eanglish level A2.
+
 At this moment, learning English is a hobby. I’m studying it independently with the help of apps and videos on Youtube, I also connected communication with a native speaker and people with a higher level.
     
 ## Code example
@@ -83,3 +85,5 @@ alert( message );
 ## Additional information
 
 My skills gained in the courses will help to get started quickly and be useful on the projects.
+
+Right now I'm studying on the Rolling Scopes courses and want to improve my skills in JS, CSS, HTML.
