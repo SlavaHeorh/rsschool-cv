@@ -1,8 +1,11 @@
 # Viachaslau Kazliakouski
 
 ## Contacts
+
 **Phone:** +375(29) 751-16-90
+
 **e-mail:** Slava.Georg.K@gmail.com
+
 **Linkedin:** **[Viachaslau Kazliakouski] (http://www.linkedin.com/in/ViachaslauKazliakouski)**
 
 ## Summary
