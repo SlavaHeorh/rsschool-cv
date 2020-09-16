@@ -7,7 +7,7 @@
   
 **Phone:** +375(29) 751-16-90
 
-**Skype:** Viachaslau Kazliakouski
+**Skype:** [Viachaslau Kazliakouski](https://join.skype.com/invite/cdIZaygAedyn)
 
 **e-mail:** Slava.Georg.K@gmail.com
 
