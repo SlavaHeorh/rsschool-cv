@@ -17,19 +17,19 @@
    
 ## Summary
 - Purposefulness, perseverance, friendly.
-- [ ] Experience in training new employees.
-- [ ] Easy to get along with team.
-- [ ] The desire to learn and develop in this direction.
-- [ ] I can work as a team or alone.
+- Experience in training new employees.
+- Easy to get along with team.
+- The desire to learn and develop in this direction.
+- I can work as a team or alone.
    
 ## Skills
-- [ ] Experienced in CSS and HTML also JS.
-- [ ] Creating Test Cases in TestRail.
-- [ ] Work with the system Jira.
-- [ ] Work with version control system GitHub .
-- [ ] Entering bugs into the bug tracking system.
-- [ ] Testing web apps, mobile apps and native apps.
-- [ ] Work with MySQL.
+- Experienced in CSS and HTML also JS.
+- Creating Test Cases in TestRail.
+- Work with the system Jira.
+- Work with version control system GitHub .
+- Entering bugs into the bug tracking system.
+- Testing web apps, mobile apps and native apps.
+- Work with MySQL.
    
 ## Education
 
