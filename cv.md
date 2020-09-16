@@ -16,7 +16,7 @@
 **Linkedin:** [Viachaslau Kazliakouski](http://www.linkedin.com/in/ViachaslauKazliakouski)
    
 ## Summary
-- [ ] Purposefulness, perseverance, friendly.
+- Purposefulness, perseverance, friendly.
 - [ ] Experience in training new employees.
 - [ ] Easy to get along with team.
 - [ ] The desire to learn and develop in this direction.
