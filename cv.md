@@ -1,5 +1,5 @@
 # Kazliakouski Viachaslau
-
+![Author Photo](51296788.png "Подпись")
 ---
 
 ---
@@ -32,15 +32,30 @@
 
 ## **Work Experience**
 
-*  "Kenfordbel" 2013-2017
-    + Mobile device repair and maintenance engineer
-*  "Kenfordbel" 2017-2019
-    + Lead engineer
-*  "Bank Processing Center" 2020-2022
-    + Electronics engineer
-*  "Taqtile" 2022
-    + Junior front-end developer 
+*  ### "Kenfordbel" 2013-2017
+    + **Mobile device repair and maintenance engineer**
+*  ### "Kenfordbel" 2017-2019
+    + **Lead engineer**
+*  ### "Bank Processing Center" 2020-2022
+    + **Electronics engineer**
+*  ### "Taqtile" 2022
+    + **Junior front-end developer** 
 
+---
+
+## **Education**
+
+*  ### **Belarusian State University of Informatics and Radioelectronics 2009-2013** 
+    + **Bachelor's degree, Information Technology and Management**
+*  ### **TeachMeSkills LLC 2021-2022**
+    + **Front-end developer**
+
+---
+
+## **English Language**
+
+*  ### **I can read technical documentation and understand speech**
+    + **level - A2**
 ---
 
 ## **Code Examples**
