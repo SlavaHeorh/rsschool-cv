@@ -1,5 +1,5 @@
 # Kazliakouski Viachaslau
-![Author Photo](51296788.png "Подпись")
+![Author Photo](51296788.png "Author Photo")
 ---
 
 ---
@@ -56,6 +56,11 @@
 
 *  ### **I can read technical documentation and understand speech**
     + **level - A2**
+---
+
+## **My Projects**
+### You can see my projects on [My GitHub repository](https://github.com/SlavaHeorh?tab=repositories "GitHub") <br>
+
 ---
 
 ## **Code Examples**
