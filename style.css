@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+h1 {
+    font-size: 68px;
+}
+
+h2 {
+    font-size: 38px;
+    margin: 15px 0;
+}
+
+h3  {
+    font-size: 32px;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 22px;
+    font-weight: 400;
+    margin: 5px 0;
+}
+
+ul {
+    font-size: 28px;
+    font-weight: 600;
+    margin: 15px 0;
+}
+
+li {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+hr {
+    width: 100%;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-photo {
+    margin: 0 auto;
+}
